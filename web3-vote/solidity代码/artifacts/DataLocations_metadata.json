@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_val",
+						"type": "string"
+					}
+				],
+				"name": "funcStorage",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"HelloWorld.sol": "DataLocations"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"HelloWorld.sol": {
+			"keccak256": "0xc82663a347b4fd80005b3ba4a24046906a2bef71841d1893939ebc2c017ef21d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://307a0ceac4e6ad7f251fe24877ffa078b67dfb0543f3baa19bcf0248dcbbb32d",
+				"dweb:/ipfs/QmajLuP8AHa5NKpc2KhhhJtzeGwSacuKU4tPwtPDUYwRR8"
+			]
+		}
+	},
+	"version": 1
+}
